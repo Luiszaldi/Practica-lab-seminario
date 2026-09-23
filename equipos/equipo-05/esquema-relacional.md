@@ -1,11 +1,11 @@
-# Equipo XX — Esquema relacional del proyecto
+# Equipo 05 — Esquema relacional del proyecto
 
 **Dominio de negocio:**
 
 **Integrantes:**
--
--
--
+-Luis Fernando Zaldivar Plata
+-Sergio Ituriel Hernandez Escalona
+-Irene Karina Martinez Solis
 
 **Enlace al diagrama E/R del jueves 17** (dbdiagram.io, Mermaid o archivo en el repositorio del proyecto):
 
