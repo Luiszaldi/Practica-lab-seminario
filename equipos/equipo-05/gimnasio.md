@@ -1,4 +1,4 @@
-# Equipo XX — Caso Gimnasio
+# Equipo 05 — Caso Gimnasio
 
 **Integrantes:**
 -Luis Fernando Zaldivar Plata
